@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>qt_build</name>
+  <version>1.0.0</version>
+  <description>
+    A cmake api for simplifying the building
+    of qt apps within the ros framework. Modified from Daniel Stonier's qt_ros (http://wiki.ros.org/qt_ros)
+  </description>
+  <maintainer email="info@richards-tech.com">richards-tech</maintainer>
+  <license>BSD</license>
+
+  <url type="bugtracker">https://github.com/richards-tech/rosqt45/issues</url>
+  <url type="repository">https://github.com/richards-tech/rosqt45</url>
+
+  <author>Daniel Stonier</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
